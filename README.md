@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@tusharmat21184" target="blank"><img src="https://img.shields.io/twitter/follow/@tusharmat21184?logo=twitter&style=for-the-badge" alt="@tusharmat21184" /></a> </p>
 
-- 🔭 I’m currently working on **Research Paper Title Generation and Tag classification**
+- 🔭 I’m currently working on **EduFlash - summary and flashcard generator based on provided notes**
 
 - 💬 Ask me about **Python and Computer vision**
 
